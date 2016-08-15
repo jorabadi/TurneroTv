@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Configuracion</comment>
+<entry key="icono">logo.jpg</entry>
+<entry key="baudios">4800</entry>
+<entry key="minTurno">0</entry>
+<entry key="tamanoTurnos">150</entry>
+<entry key="tamanoEncabezadoTurnos">60</entry>
+<entry key="puertoSerial">COM5</entry>
+<entry key="databaseUrl">jdbc:sqlite:db/turnero.db</entry>
+<entry key="nombreDispositivoVideo">OEM Device</entry>
+<entry key="volumenTv">0.0</entry>
+<entry key="maxTurno">99</entry>
+<entry key="nombreDispositivoAudio">none</entry>
+<entry key="canaTvInicial">7</entry>
+<entry key="imagenFondo">logo.jpg</entry>
+<entry key="nombrePin">Capture</entry>
+<entry key="nombreFormato">YUY2, 720 * 480, 16 bits</entry>
+<entry key="maximoTurnos">6</entry>
+<entry key="maximoValorTurno">5</entry>
+<entry key="nombreFiltroVideo">OEM Tuner</entry>
+<entry key="volumenTurnero">0</entry>
+<entry key="nombreAudiofile">doorbell-1.wav</entry>
+</properties>

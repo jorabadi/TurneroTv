@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/ormlite-core-4.48.jar"/>
+	<classpathentry kind="lib" path="lib/ormlite-jdbc-4.48.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.7.15.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.8.7.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.9.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/jmf.jar"/>
+	<classpathentry kind="lib" path="lib/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="lib/multiplayer.jar"/>
+	<classpathentry kind="lib" path="lib/sound.jar"/>
+	<classpathentry kind="lib" path="lib/RXTXcomm.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Turnero/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jgoodies-forms.jar" sourcepath="lib/jgoodies-forms-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Turnero/lib/jgoodies-forms-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jgoodies-common.jar" sourcepath="lib/jgoodies-common-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Turnero/lib/jgoodies-common-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/dsj.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Turnero/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
